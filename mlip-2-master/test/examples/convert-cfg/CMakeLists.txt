@@ -1,0 +1,6 @@
+foreach(i RANGE 1 9)
+  add_subdirectory("0${i}.convert-cfg")
+endforeach(i)
+foreach(i RANGE 10 15)
+  add_subdirectory("${i}.convert-cfg")
+endforeach(i)

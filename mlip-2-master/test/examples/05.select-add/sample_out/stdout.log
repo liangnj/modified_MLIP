@@ -1,0 +1,8 @@
+MTPR from pot.mtp, traning set: train.cfg, add from set: candidate.cfg
+loading training set... done
+2 configurations found in the training set
+10 configurations selected from both sets
+new configuration count = 25
+TS increased by 9 configs
+MLIP: Selection: state saved to "./out/state.als"
+MLIP: Selection: training set saved to "./out/selected.cfg"

@@ -1,0 +1,63 @@
+MLIP: Driver: internal relaxation
+MLIP: Using internal relaxation driver
+MLIP: 	iteration-limit = 999999999
+MLIP: 	bfgs-wolfe-c1 = 0.100000
+MLIP: 	bfgs-wolfe-c2 = 0.500000
+MLIP: 	force-tolerance = 0.000100
+MLIP: 	max-step = 0.050000
+MLIP: 	min-dist = 1.000000
+MLIP: 	min-step = 0.000000
+MLIP: 	pressure = 0.000000
+MLIP: 	stress-tolerance = 0.001000
+MLIP: Relaxation initialization complete
+Total 25 configurations are to be relaxed
+
+MLIP: Relaxation: starting relaxation cfg#1
+MLIP: Relaxation of cfg#1 complete
+MLIP: Relaxation: starting relaxation cfg#2
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.623653)
+MLIP: Relaxation: starting relaxation cfg#3
+MLIP: Relaxation of cfg#3 complete
+MLIP: Relaxation: starting relaxation cfg#4
+MLIP: Relaxation of cfg#4 complete
+MLIP: Relaxation: starting relaxation cfg#5
+MLIP: Relaxation of cfg#5 complete
+MLIP: Relaxation: starting relaxation cfg#6
+MLIP: Relaxation of cfg#6 complete
+MLIP: Relaxation: starting relaxation cfg#7
+MLIP: Relaxation of cfg#7 complete
+MLIP: Relaxation: starting relaxation cfg#8
+MLIP: Relaxation of cfg#8 complete
+MLIP: Relaxation: starting relaxation cfg#9
+MLIP: Relaxation of cfg#9 complete
+MLIP: Relaxation: starting relaxation cfg#10
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.146631)
+MLIP: Relaxation: starting relaxation cfg#11
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.305660)
+MLIP: Relaxation: starting relaxation cfg#12
+MLIP: Relaxation of cfg#12 complete
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 11.423947)
+MLIP: Relaxation: starting relaxation cfg#14
+MLIP: Relaxation of cfg#14 complete
+MLIP: Relaxation: starting relaxation cfg#15
+MLIP: Relaxation of cfg#15 complete
+MLIP: Relaxation: starting relaxation cfg#16
+MLIP: Relaxation of cfg#16 complete
+MLIP: Relaxation: starting relaxation cfg#17
+MLIP: Relaxation of cfg#17 complete
+MLIP: Relaxation: starting relaxation cfg#18
+MLIP: Relaxation of cfg#18 complete
+MLIP: Relaxation: starting relaxation cfg#19
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.515569)
+MLIP: Relaxation: starting relaxation cfg#20
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.237227)
+MLIP: Relaxation: starting relaxation cfg#21
+MLIP: Relaxation of cfg#21 complete
+MLIP: Relaxation: starting relaxation cfg#22
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.548877)
+MLIP: Relaxation: starting relaxation cfg#23
+MLIP WARNING: Relaxation failed: Breaking threshold exceeded (MV-grade: 10.485049)
+MLIP: Relaxation: starting relaxation cfg#24
+MLIP: Relaxation of cfg#24 complete
+MLIP: Relaxation: starting relaxation cfg#25
+MLIP: Relaxation of cfg#25 complete
