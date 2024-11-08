@@ -15,7 +15,7 @@ In the `test` folder, you can find the necessary files for testing the modified 
 
 When using this code, please cite the following references:
 1. I. S. Novikov, K. Gubaev, E. V. Podryabinkin and A. V. Shapeev, The MLIP package: moment tensor potentials with MPI and active learning, Mach. Learn.: Sci. Technol. 2, 025002 (2021).
-2. 
+2. W. Zhou, N. Liang, X. Wu, S. Xiong, Z. Fan, and B. Song, Insight into the effect of force error on the thermal conductivity from machine-learned potentials, arXiv:2411.04769 (2024).
 
 
 # The original versions of the MLIP package and the LAMMPS-MLIP interface
