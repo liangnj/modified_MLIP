@@ -1,0 +1,21 @@
+The use of this Code should be acknowledged by citing the tutorial paper
+describing the use of this code:
+
+[1] I.S. Novikov, K. Gubaev, E.V. Podryabinkin, A.V. Shapeev.
+The MLIP package: Moment tensor potentials with mpi and active learning.
+Machine Learning: Science and Technology, 2(2):025002, 2020.  (doi: 10.1088/2632-2153/abc9fe)
+
+Additional references that may be cited (at the discretion of the user) are:
+
+Original MTP potentials:
+[2] A.V. Shapeev, Moment tensor potentials: A class of systematically improvable interatomic potentials,
+Multiscale Modeling and Simululation, volume 14, pages 1153-1173, 2016.  (doi: 10.1137/15M1054183)
+
+Active learning of MTP:
+[3] E.V. Podryabinkin, A.V. Shapeev, Active Learning of Linearly Parametrized Interatomic Potentials,
+    Computational Materials Science, volume 140, pages 171-180, 2017.  (doi: 10.1016/j.commatsci.2017.07.010)
+
+Multicomponent MTP:
+[4] Konstantin Gubaev, Evgeny V. Podryabinkin, Gus L. W. Hart, Alexander V. Shapeev, 
+    Accelerating high-throughput searches for new alloys with active learning of interatomic potentials,
+    Computational Materials Science, volume 156, pages 148-156, 2019.  (doi: 10.1016/j.commatsci.2017.08.031)

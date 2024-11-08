@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9EB50C2-D945-44BF-8E3F-D34C054B95E4}"
+	ProjectSection(SolutionItems) = preProject
+		todo.txt = todo.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared_project", "Shared_project\Shared_project.vcxitems", "{45D41ACC-2C3C-43D2-BC10-02AA73FFC7C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mlp", "mlp\mlp.vcxproj", "{13F3DB63-668E-4539-BE28-E60A6436E3A3}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared_project\Shared_project.vcxitems*{13f3db63-668e-4539-be28-e60a6436e3a3}*SharedItemsImports = 4
+		Shared_project\Shared_project.vcxitems*{45d41acc-2c3c-43d2-bc10-02aa73ffc7c7}*SharedItemsImports = 9
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Debug|x64.ActiveCfg = Debug|x64
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Debug|x64.Build.0 = Debug|x64
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Debug|x86.Build.0 = Debug|Win32
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Release|x64.ActiveCfg = Release|x64
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Release|x64.Build.0 = Release|x64
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Release|x86.ActiveCfg = Release|Win32
+		{13F3DB63-668E-4539-BE28-E60A6436E3A3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
