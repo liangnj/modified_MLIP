@@ -1,0 +1,4 @@
+QEq
+scaling = 10.0
+species_count = 2
+qeq_coefficients = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0}
