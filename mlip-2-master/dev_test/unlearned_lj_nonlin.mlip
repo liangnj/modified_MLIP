@@ -1,0 +1,3 @@
+LJNonlinear
+species_count = 2
+lj_coefficients = {0.0, 0.0, 0.0, 0.0}
