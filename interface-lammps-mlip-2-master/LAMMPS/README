@@ -1,0 +1,7 @@
+This package provides an interface with
+Machine Learning Interatomic Potentials (MLIP)
+through the pair_style command.
+
+For more information about MLIP see
+mlip.skoltech.ru
+gitlab.skoltech.ru/shapeev/mlip
