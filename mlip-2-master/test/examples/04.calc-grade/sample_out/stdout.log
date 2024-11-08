@@ -1,0 +1,2 @@
+MTPR from pot.mtp, train: train.cfg, input: test.cfg
+MLIP: Selection: state saved to "./out/state.als"
