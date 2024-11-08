@@ -1,0 +1,21 @@
+These are examples from the manuscript describing the use of the MLIP package.
+
+The folders are:
+
+example-1:
+The files needed to run example 1.
+See example-1/INSTALL for the instructions how to set it up and make sure
+you read example-1/README for the description of different files
+
+example-2:
+The files needed to run example 2.
+See example-2/INSTALL for the instructions how to set it up and make sure
+you read example-2/README for the description of different files
+
+example-3-blank:
+The files needed to run example 3.
+See example-3-blank/INSTALL for the instructions how to set it up and make sure
+you read example-3-blank/README for the description of different files
+
+example-3:
+Same, but with all iterations run and all output files
